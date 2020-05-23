@@ -26,7 +26,7 @@ C++ project to build and dispatch kits for a given order based on the parts avai
 ### Architecture
 
 <p align="center">
-<img src="output/architecture.png" width="600" height="400" border="1">
+<img src="output/architecture.png" width="600" height="500" border="1">
 </p>
 
 ### Sensory Module
