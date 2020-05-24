@@ -25,6 +25,12 @@ C++ project to build and dispatch kits for a given order based on the parts avai
 <img src="output/drop part.gif" width="600" height="400" border="1">
 </p>
 
+## Picking Part from Belt 
+
+<p align="center">
+<img src="output/part delivery.gif" width="600" height="400" border="1">
+</p>
+
 ## Algorithm
 
  This project implements hybrid architecture, where Sensory Module, Planning module and Execution module works independently to achieve the goal to build the kit. The algorithm read the order , makes smart decision for the shipment with ```any``` tag , checks the parts availability in the tray and the bin and generate a priority queues of the order parts for both the arms.
