@@ -8,7 +8,7 @@ C++ project to build and dispatch kits for a given order based on the parts avai
 ## Authors 
 - [Saurav Kumar](https://www.linkedin.com/in/sauravkdeo/)
 - Rachith Prakash
-- Srinivas Iskala 
+- Srinivas Iskala (https://www.linkedin.com/in/raja-srinivas-iskala-6631aa118/)
 - Dinesh Kadirimangalam
 - Sanket Acharya
 - Preyash Parikh
