@@ -5,13 +5,10 @@
 ## Overview
 
 C++ project to build and dispatch kits for a given order based on the parts available in the bin and the conveyor belt.
-## Authors 
-- [Saurav Kumar](https://www.linkedin.com/in/sauravkdeo/)
-- [Rachith Prakash](https://www.linkedin.com/in/rachithprakash)
-- [Srinivas Iskala](https://www.linkedin.com/in/raja-srinivas-iskala-6631aa118/)
-- Dinesh Kadirimangalam
-- Sanket Acharya
-- Preyash Parikh
+## Author
+
+- [Dinesh Kadirimangalam](https://www.linkedin.com/in/dkadiri/)
+
 
 ## Results
 
